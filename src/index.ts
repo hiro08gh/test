@@ -1,1 +1,1 @@
-console.log("test");
+export { useCacheFetch } from "./useCacheFetch";
